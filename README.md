@@ -5,6 +5,7 @@
 - 👋 Hi, My ID is ThumpBo，也可以叫我波波
 - 👀 I'm good at 红蓝攻防和渗透测试
 - 📫 人送外号水群专家
+- 🎂 专注于国内外一线漏洞信息研究
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
 
